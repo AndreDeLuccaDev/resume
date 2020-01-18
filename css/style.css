@@ -120,7 +120,7 @@ hr{
 
 .bottom-container{
   background: #3f72af;
-  padding: 50px 0 0px;
+  padding: 50px 0 10px;
 }
 
 .footer-link{
@@ -129,10 +129,10 @@ hr{
 
 .texto_fim{
 margin:0;
-padding:20px;
+padding:20px 0 0;
 color:#EAF6F6;
 font-size: 70%;
-line-height: 1;  
+line-height: 2;
 }
 
 
